@@ -67,5 +67,6 @@ MIT license.
 
 Credits
 =======
-Author: Jeyson Molina <jeyson.mco@gmail.com>
+Author: Jeyson Molina <jeyson.mco@gmail.com> 
+
 Maintainer: Tungsteno <tungsteno74@yahoo.it>
